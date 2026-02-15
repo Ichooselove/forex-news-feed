@@ -1,49 +1,49 @@
-2026-02-15 23:50|JPY|High|(Japan) GDP Growth Rate QoQ
-2026-02-17 00:30|AUD|High|(Australia) RBA Meeting Minutes
-2026-02-17 07:00|GBP|High|(United Kingdom) Unemployment Rate
-2026-02-17 07:00|GBP|High|(United Kingdom) Employment Change
-2026-02-17 10:00|EUR|High|(Germany) ZEW Economic Sentiment Index
-2026-02-17 13:15|USD|High|(United States) ADP Employment Change Weekly
-2026-02-17 13:30|USD|High|(United States) NY Empire State Manufacturing Index
-2026-02-17 13:30|CAD|High|(Canada) Inflation Rate YoY
-2026-02-17 13:30|CAD|High|(Canada) CPI Trimmed-Mean YoY
-2026-02-17 13:30|CAD|High|(Canada) CPI Median YoY
-2026-02-17 13:30|CAD|High|(Canada) CPI Common YoY
-2026-02-17 23:50|JPY|High|(Japan) Balance of Trade
-2026-02-18 07:00|GBP|High|(United Kingdom) Inflation Rate YoY
-2026-02-18 13:30|USD|High|(United States) Housing Starts
-2026-02-18 13:30|USD|High|(United States) Building Permits
-2026-02-18 13:30|USD|High|(United States) Building Permits
-2026-02-18 13:30|USD|High|(United States) Housing Starts
-2026-02-18 13:30|USD|High|(United States) Durable Goods Orders MoM
-2026-02-18 13:30|USD|High|(United States) Durable Goods Orders ex Defense MoM
-2026-02-18 13:30|USD|High|(United States) Durable Goods Orders Ex Transp MoM
-2026-02-18 19:00|USD|High|(United States) FOMC Minutes
-2026-02-19 00:30|AUD|High|(Australia) Unemployment Rate
-2026-02-19 00:30|AUD|High|(Australia) Employment Change
-2026-02-19 11:30|EUR|High|(Euro Area) ECB Guindos Speech
-2026-02-19 13:30|USD|High|(United States) Initial Jobless Claims
-2026-02-19 13:30|USD|High|(United States) Jobless Claims 4-week Average
-2026-02-19 13:30|USD|High|(United States) Continuing Jobless Claims
-2026-02-19 13:30|USD|High|(United States) Goods Trade Balance
-2026-02-19 23:30|JPY|High|(Japan) Inflation Rate YoY
-2026-02-20 07:00|GBP|High|(United Kingdom) Retail Sales YoY
-2026-02-20 07:00|GBP|High|(United Kingdom) Retail Sales ex Fuel YoY
-2026-02-20 07:00|GBP|High|(United Kingdom) Retail Sales MoM
-2026-02-20 07:00|GBP|High|(United Kingdom) Retail Sales ex Fuel MoM
-2026-02-20 13:30|USD|High|(United States) GDP Growth Rate QoQ
-2026-02-20 13:30|USD|High|(United States) Core PCE Price Index YoY
-2026-02-20 13:30|USD|High|(United States) Personal Spending MoM
-2026-02-20 13:30|USD|High|(United States) Core PCE Price Index MoM
-2026-02-20 13:30|USD|High|(United States) Personal Income MoM
-2026-02-20 13:30|CAD|High|(Canada) Retail Sales Ex Autos MoM
-2026-02-20 13:30|CAD|High|(Canada) Retail Sales MoM
-2026-02-20 13:30|CAD|High|(Canada) Retail Sales YoY
-2026-02-20 13:30|CAD|High|(Canada) Retail Sales MoM
-2026-02-20 15:00|USD|High|(United States) New Home Sales MoM
-2026-02-20 15:00|USD|High|(United States) New Home Sales
-2026-02-20 15:00|USD|High|(United States) Michigan Consumer Sentiment
-2026-02-20 15:00|USD|High|(United States) New Home Sales
-2026-02-20 15:00|USD|High|(United States) New Home Sales MoM
-2026-02-22 21:45|NZD|High|(New Zealand) Retail Sales QoQ
-2026-02-22 21:45|NZD|High|(New Zealand) Retail Sales YoY
+2026-02-15 23:50|JPY|HIGH|GDP Growth Rate QoQ
+2026-02-17 00:30|AUD|HIGH|RBA Meeting Minutes
+2026-02-17 07:00|GBP|HIGH|Unemployment Rate
+2026-02-17 07:00|GBP|HIGH|Employment Change
+2026-02-17 10:00|EUR|HIGH|ZEW Economic Sentiment Index
+2026-02-17 13:15|USD|HIGH|ADP Employment Change Weekly
+2026-02-17 13:30|USD|HIGH|NY Empire State Manufacturing Index
+2026-02-17 13:30|CAD|HIGH|Inflation Rate YoY
+2026-02-17 13:30|CAD|HIGH|CPI Trimmed-Mean YoY
+2026-02-17 13:30|CAD|HIGH|CPI Median YoY
+2026-02-17 13:30|CAD|HIGH|CPI Common YoY
+2026-02-17 23:50|JPY|HIGH|Balance of Trade
+2026-02-18 07:00|GBP|HIGH|Inflation Rate YoY
+2026-02-18 13:30|USD|HIGH|Housing Starts
+2026-02-18 13:30|USD|HIGH|Building Permits
+2026-02-18 13:30|USD|HIGH|Building Permits
+2026-02-18 13:30|USD|HIGH|Housing Starts
+2026-02-18 13:30|USD|HIGH|Durable Goods Orders MoM
+2026-02-18 13:30|USD|HIGH|Durable Goods Orders ex Defense MoM
+2026-02-18 13:30|USD|HIGH|Durable Goods Orders Ex Transp MoM
+2026-02-18 19:00|USD|HIGH|FOMC Minutes
+2026-02-19 00:30|AUD|HIGH|Unemployment Rate
+2026-02-19 00:30|AUD|HIGH|Employment Change
+2026-02-19 11:30|EUR|HIGH|ECB Guindos Speech
+2026-02-19 13:30|USD|HIGH|Initial Jobless Claims
+2026-02-19 13:30|USD|HIGH|Jobless Claims 4-week Average
+2026-02-19 13:30|USD|HIGH|Continuing Jobless Claims
+2026-02-19 13:30|USD|HIGH|Goods Trade Balance
+2026-02-19 23:30|JPY|HIGH|Inflation Rate YoY
+2026-02-20 07:00|GBP|HIGH|Retail Sales YoY
+2026-02-20 07:00|GBP|HIGH|Retail Sales ex Fuel YoY
+2026-02-20 07:00|GBP|HIGH|Retail Sales MoM
+2026-02-20 07:00|GBP|HIGH|Retail Sales ex Fuel MoM
+2026-02-20 13:30|USD|HIGH|GDP Growth Rate QoQ
+2026-02-20 13:30|USD|HIGH|Core PCE Price Index YoY
+2026-02-20 13:30|USD|HIGH|Personal Spending MoM
+2026-02-20 13:30|USD|HIGH|Core PCE Price Index MoM
+2026-02-20 13:30|USD|HIGH|Personal Income MoM
+2026-02-20 13:30|CAD|HIGH|Retail Sales Ex Autos MoM
+2026-02-20 13:30|CAD|HIGH|Retail Sales MoM
+2026-02-20 13:30|CAD|HIGH|Retail Sales YoY
+2026-02-20 13:30|CAD|HIGH|Retail Sales MoM
+2026-02-20 15:00|USD|HIGH|New Home Sales MoM
+2026-02-20 15:00|USD|HIGH|New Home Sales
+2026-02-20 15:00|USD|HIGH|Michigan Consumer Sentiment
+2026-02-20 15:00|USD|HIGH|New Home Sales
+2026-02-20 15:00|USD|HIGH|New Home Sales MoM
+2026-02-22 21:45|NZD|HIGH|Retail Sales QoQ
+2026-02-22 21:45|NZD|HIGH|Retail Sales YoY
